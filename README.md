@@ -15,5 +15,5 @@ Here are some ideas to get you started: -->
       - I would rather code in Python than C++  
 
 
-Badges and Stickers earned:
+Badges and Stickers earned:  
 <img src="https://github.com/clarissa-dev-codes/images/blob/main/Build%20Your%20First%20Chatbot.png?raw=true" alt="Alt Text" width="100" height="100">
