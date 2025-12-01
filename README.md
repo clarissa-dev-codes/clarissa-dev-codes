@@ -14,3 +14,4 @@ Here are some ideas to get you started: -->
       - I have a small obsession with my goats and growing my herd  
       - I would rather code in Python than C++  
 
+https://github.com/clarissa-dev-codes/images/blob/main/Build%20Your%20First%20Chatbot.png
