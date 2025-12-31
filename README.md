@@ -11,8 +11,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:   
       - I ride and compete in Equestrian Western Cutting  
-      - I have a small obsession with my goats and growing my herd  
-      - I would rather code in Python than C++  
+      - I have a small obsession with my goats and growing my herd   
 
 
 Badges and Stickers earned:  
