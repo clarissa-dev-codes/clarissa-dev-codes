@@ -1,18 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Clarissa Edwards 👋 
 
-<!--
-**clarissa-dev-codes/clarissa-dev-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Software Engineering Student | Backend Development
+I am a Software Engineering student focused on building robust backend solutions. I'm currently expanding my expertise in **Python** and **C++**, with a growing interest in **AWS** and scalable infrastructure. 
 
-Here are some ideas to get you started: -->
+- 🔭 **Currently:** Developing personal projects and coursework at The University of Alabama in Huntsville.
+- 🌱 **Learning:** Deepening my knowledge of C++ and advanced Python patterns.
+- 💬 **Ask me about:** My data tracking projects or my latest project ideas!
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/clarissa-edwards/)
 
-- 🔭 I’m currently working on a few different personal projects as well as projects for classes
-- 🌱 I’m currently learning C++ and refreshing myself on Python
-- 💬 Ask me about my trackers and my ideas for other projects
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact:   
-      - I ride and compete in Equestrian Western Cutting  
-      - I have a small obsession with my goats and growing my herd   
+---
 
+### 🛠️ Tech Stack & Tools
+![Python](https://img.shields.io)
+![C++](https://img.shields.io)
+![AWS](https://img.shields.io)
+![Git](https://img.shields.io)
 
-Badges and Stickers earned:  
-<img src="https://github.com/clarissa-dev-codes/images/blob/main/Build%20Your%20First%20Chatbot.png?raw=true" alt="Alt Text" width="100" height="100">
+---
+
+### ⚡ Beyond the Code
+When I'm not at the keyboard, you can find me:
+- 🐎 **Competing:** I ride and compete in **Equestrian Western Cutting**.
+- 🚜 **Farming:** Managing my small goat herd and working on growing it at Certembe Farms.
+- 💬 **Pronouns:** She/Her
+
+---
+
+### 📊 GitHub Stats
+![Clarissa's GitHub stats](https://github-readme-stats.vercel.app)
