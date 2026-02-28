@@ -28,3 +28,11 @@ When I'm not at the keyboard, you can find me:
 
 ### 📊 GitHub Stats
 ![Clarissa's GitHub stats](https://github-readme-stats.vercel.app)
+
+---
+### Currently Working On
+- [Startols Game (Python)](https://github.com/clarissa-dev-codes/Startols)
+- [Cow Tracker (C++)](https://github.com/clarissa-dev-codes/Cow-Tracker)
+- [Password Manager (Python)](https://github.com/clarissa-dev-codes/PasswordManagerProject)
+- [Book Tracker (C++)](https://github.com/clarissa-dev-codes/BookTracker)
+- [WIP Tracker (C++)](https://github.com/clarissa-dev-codes/WIPTracker)
