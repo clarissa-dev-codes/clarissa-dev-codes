@@ -24,10 +24,6 @@ When I'm not at the keyboard, you can find me:
 - 🚜 **Farming:** Managing my small goat herd and working on growing it at Certembe Farms.
 - 💬 **Pronouns:** She/Her
 
----
-
-### 📊 GitHub Stats
-![Clarissa's GitHub stats](https://github-readme-stats.vercel.app)
 
 ---
 ### Currently Working On
