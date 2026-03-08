@@ -36,3 +36,4 @@ When I'm not at the keyboard, you can find me:
 - [Password Manager (Python)](https://github.com/clarissa-dev-codes/PasswordManagerProject)
 - [Book Tracker (C++)](https://github.com/clarissa-dev-codes/BookTracker)
 - [WIP Tracker (C++)](https://github.com/clarissa-dev-codes/WIPTracker)
+- [Crypto Cracker (Python)](https://github.com/clarissa-dev-codes/CryptoCracker)
