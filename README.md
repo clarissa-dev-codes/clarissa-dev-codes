@@ -42,4 +42,4 @@ When I'm not at the keyboard, you can find me:
 
 ---
 ### Tutorials with what I learned
-- [30 Days of Python Challenge (1/30)](https://github.com/clarissa-dev-codes/30DaysofPythonChallenge)
+- [30 Days of Python Challenge (2/30)](https://github.com/clarissa-dev-codes/30DaysofPythonChallenge)
