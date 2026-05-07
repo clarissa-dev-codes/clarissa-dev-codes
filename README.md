@@ -46,3 +46,4 @@ When I'm not at the keyboard, you can find me:
 ---
 ### Tutorials with what I learned
 - [30 Days of Python Challenge (3/30)](https://github.com/clarissa-dev-codes/30DaysofPythonChallenge)
+- [Pomodoro Timer Tutorial by Dev.to](https://github.com/clarissa-dev-codes/PomodoroTutorial)
