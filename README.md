@@ -34,7 +34,7 @@ When I'm not at the keyboard, you can find me:
 - [WIP Tracker (C++)](https://github.com/clarissa-dev-codes/WIPTracker)
 - [Crypto Cracker (Python)](https://github.com/clarissa-dev-codes/CryptoCracker)
 - [Part Finder (Python)](https://github.com/clarissa-dev-codes/PartFinder)
-
+- [Lucky Scoop (Python/JSON)](https://github.com/clarissa-dev-codes/LuckyScoop)
 
 ---
 ### Finished Code
