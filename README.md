@@ -37,6 +37,11 @@ When I'm not at the keyboard, you can find me:
 
 
 ---
+### Resources that I've Made
+- [Algorithms](https://github.com/clarissa-dev-codes/Algoritms)
+
+  
+---
 ### Finished Code
 - [Livestock Tracker (C++)](https://github.com/clarissa-dev-codes/LivestockTracker)
 
