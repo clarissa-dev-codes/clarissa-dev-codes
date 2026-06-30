@@ -57,3 +57,4 @@ When I'm not at the keyboard, you can find me:
 - [MyFirstMLProjectTutorial](https://github.com/clarissa-dev-codes/MyFirstMLProjectTutorial)
 - [Slots Tutorial](https://github.com/clarissa-dev-codes/SlotsTutorial)
 - [Ad Blocker Tutorial](https://github.com/clarissa-dev-codes/Simple_Ad_Blocker_Tutorial)
+- [Create a GIF Tutorial](https://github.com/clarissa-dev-codes/Simple_GIF_Maker)
