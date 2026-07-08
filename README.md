@@ -10,11 +10,16 @@ I am a Software Engineering student focused on building robust backend solutions
 
 ---
 
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io)
-![C++](https://img.shields.io)
-![AWS](https://img.shields.io)
-![Git](https://img.shields.io)
+## 🛠️ Tech Stack & Tools
+### 💻 Programming Languages
+* **Core Proficiency:** C++ | Python
+* **Currently Learning:** JavaScript
+* **Web Basics:** HTML5 | CSS3
+
+### 🧰 Software & Tools
+* **IDEs / Editors:** VS Code | Visual Studio | PyCharm
+* **Version Control:** Git | GitHub
+* **Operating System:** Windows
 
 ---
 
