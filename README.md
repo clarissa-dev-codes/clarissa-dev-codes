@@ -45,6 +45,7 @@ When I'm not at the keyboard, you can find me:
 ---
 ### Finished Code
 - [Livestock Tracker (C++)](https://github.com/clarissa-dev-codes/LivestockTracker)
+- [Coding Projects Manager (C++)](https://github.com/clarissa-dev-codes/Coding-Project-Manager)
 
 ---
 ### Deployed Code
