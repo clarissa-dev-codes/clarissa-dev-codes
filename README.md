@@ -23,44 +23,33 @@ I am a Software Engineering student focused on building robust backend solutions
 
 ---
 
+
+### 🌟 Featured Projects
+
+#### 🛠️ [Coding Projects Manager (C++)](https://github.com/clarissa-dev-codes/Coding-Project-Manager) `C++`
+* A lightweight, terminal-based CLI utility designed to track and organize multiple active repositories.
+* Developed independently to master C++ environment configuration and project workflows inside VS Code.
+
+#### 📊 [Livestock Tracker (C++)](https://github.com/clarissa-dev-codes/LivestockTracker)`C++` | `Makefile` | `Linux`
+* **University Final Project:** Engineered a file-based CRUD database system utilizing object-oriented C++ to track livestock metrics and farm operations.
+* **Cross-Platform Engineering:** Researched and resolved Windows/Linux text file formatting conflicts by embedding an automated data-conversion routine directly into the `Makefile`.
+* **Technical Implementation:** Managed data persistence via robust file I/O operations, text parsing, and dynamic state updates (e.g., animal status changes, sales tracking, and health logs).
+
+#### 🎲 [Lucky Scoop (Python/JSON)](https://github.com/clarissa-dev-codes/LuckyScoop) `Python` `JSON`
+* A deployed application utilizing JSON backend storage to handle dynamic user states and data persistence.
+
+> *View my full repository history for additional active builds, including **Cow Tracker (C++)**, **Password Manager (Python)**, and web experiments like **My Chrome Pet**.*
+
+---
+
+### 📚 Learning Labs & Tutorials
+* [30 Days of Python Challenge (In Progress)](https://github.com/clarissa-dev-codes/30DaysofPythonChallenge)
+* Machine Learning & Automation exploration ([MyFirstMLProjectTutorial](https://github.com/clarissa-dev-codes/MyFirstMLProjectTutorial), [Ad Blocker Tutorial](https://github.com/clarissa-dev-codes/Simple_Ad_Blocker_Tutorial))
+
+---
+
 ### ⚡ Beyond the Code
 When I'm not at the keyboard, you can find me:
 - 🐎 **Competing:** I ride and compete in **Equestrian Western Cutting**.
 - 🚜 **Farming:** Managing my small goat herd and working on growing it at Certembe Farms.
 - 💬 **Pronouns:** She/Her
-
-
----
-### Currently Working On
-- [Startols Game (Python)](https://github.com/clarissa-dev-codes/Startols)
-- [Cow Tracker (C++)](https://github.com/clarissa-dev-codes/Cow-Tracker)
-- [Password Manager (Python)](https://github.com/clarissa-dev-codes/PasswordManagerProject)
-- [Book Tracker (C++)](https://github.com/clarissa-dev-codes/BookTracker)
-- [WIP Tracker (C++)](https://github.com/clarissa-dev-codes/WIPTracker)
-- [Crypto Cracker (Python)](https://github.com/clarissa-dev-codes/CryptoCracker)
-- [Part Finder (Python)](https://github.com/clarissa-dev-codes/PartFinder)
-- [My Chrome Pet (CSS/Javascript)](https://github.com/clarissa-dev-codes/My-Chrome-Pet)
-
-
----
-### Resources that I've Made
-- [Algorithms](https://github.com/clarissa-dev-codes/Algoritms)
-
-  
----
-### Finished Code
-- [Livestock Tracker (C++)](https://github.com/clarissa-dev-codes/LivestockTracker)
-- [Coding Projects Manager (C++)](https://github.com/clarissa-dev-codes/Coding-Project-Manager)
-
----
-### Deployed Code
-- [Lucky Scoop (Python/JSON)](https://github.com/clarissa-dev-codes/LuckyScoop)
-  
----
-### Tutorials with what I learned
-- [30 Days of Python Challenge (3/30)](https://github.com/clarissa-dev-codes/30DaysofPythonChallenge)
-- [Pomodoro Timer Tutorial by Dev.to](https://github.com/clarissa-dev-codes/PomodoroTutorial)
-- [MyFirstMLProjectTutorial](https://github.com/clarissa-dev-codes/MyFirstMLProjectTutorial)
-- [Slots Tutorial](https://github.com/clarissa-dev-codes/SlotsTutorial)
-- [Ad Blocker Tutorial](https://github.com/clarissa-dev-codes/Simple_Ad_Blocker_Tutorial)
-- [Create a GIF Tutorial](https://github.com/clarissa-dev-codes/Simple_GIF_Maker)
