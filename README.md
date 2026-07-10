@@ -35,8 +35,11 @@ I am a Software Engineering student focused on building robust backend solutions
 * **Cross-Platform Engineering:** Researched and resolved Windows/Linux text file formatting conflicts by embedding an automated data-conversion routine directly into the `Makefile`.
 * **Technical Implementation:** Managed data persistence via robust file I/O operations, text parsing, and dynamic state updates (e.g., animal status changes, sales tracking, and health logs).
 
-#### 🎲 [Lucky Scoop (Python/JSON)](https://github.com/clarissa-dev-codes/LuckyScoop) `Python` `JSON`
-* A deployed application utilizing JSON backend storage to handle dynamic user states and data persistence.
+#### [Daily Habit & Task Tracker](LINK) `JavaScript` | `CSS3` | `HTML5`
+* **Local-First Web Application:** Engineered a responsive productivity dashboard that tracks and logs real-time completion states for daily habits.
+* **Persistent Architecture:** Implemented secure user-data persistence locally inside the browser's hardware layer using the flat string serialization of the `localStorage` engine.
+* **Dynamic Interface Optimization:** Built real-time calculation filters to update task metrics instantaneously in the viewport, leveraging modular DOM construction and full keyboard event listeners for seamless navigation.
+[Live Demo here](https://clarissa-dev-codes.github.io/Habit-Tracker/)
 
 > *View my full repository history for additional active builds, including **Cow Tracker (C++)**, **Password Manager (Python)**, and web experiments like **My Chrome Pet**.*
 
