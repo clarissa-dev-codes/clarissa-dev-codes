@@ -22,7 +22,11 @@ I am a Software Engineering student focused on building robust backend solutions
 * **Operating System:** Windows
 
 ---
+### 🌟 Featured Live Webpages and Repos
+#### [Astronomy Picture of the Day (APOD)](https://github.com/clarissa-dev-codes/Astronomy-Picture-of-the-Day-API)
+* [Link to live page](https://clarissa-dev-codes.github.io/Astronomy-Picture-of-the-Day-API/)
 
+---
 
 ### 🌟 Featured Projects
 
