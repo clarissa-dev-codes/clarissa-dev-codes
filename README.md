@@ -26,6 +26,9 @@ I am a Software Engineering student focused on building robust backend solutions
 #### [Astronomy Picture of the Day (APOD)](https://github.com/clarissa-dev-codes/Astronomy-Picture-of-the-Day-API)
 * [Link to live page](https://clarissa-dev-codes.github.io/Astronomy-Picture-of-the-Day-API/)
 
+#### [Engineering Log made with Vercel with Handshake Mission](https://github.com/clarissa-dev-codes/clarissa-engineering-log)
+* [Link to the page](https://clarissa-engineering-log.vercel.app/)
+
 ---
 
 ### 🌟 Featured Projects
