@@ -19,7 +19,13 @@ I am a Software Engineering student focused on building robust backend solutions
 ### 🧰 Software & Tools
 * **IDEs / Editors:** VS Code | Visual Studio | PyCharm
 * **Version Control:** Git | GitHub
-* **Operating System:** Windows
+* **Operating System:** Windows | Linux
+
+---
+### Extensions that are live on Marketplace
+#### [DevDucky](https://marketplace.visualstudio.com/items?itemName=clarissa-dev-codes.ducky-time-tracker-and-focus-companion)
+
+#### [Git Mistake Tracker](https://marketplace.visualstudio.com/items?itemName=clarissa-dev-codes.git-mistake-tracker)
 
 ---
 ### 🌟 Featured Live Webpages and Repos
