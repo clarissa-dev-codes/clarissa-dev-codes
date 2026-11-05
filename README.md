@@ -27,6 +27,8 @@ I am a Software Engineering student focused on building robust backend solutions
 
 #### [Git Mistake Tracker](https://marketplace.visualstudio.com/items?itemName=clarissa-dev-codes.git-mistake-tracker)
 
+#### [Code Project Tracker](https://marketplace.visualstudio.com/items?itemName=clarissa-dev-codes.code-project-tracker)
+
 ---
 ### 🌟 Featured Live Webpages and Repos
 #### [Astronomy Picture of the Day (APOD)](https://github.com/clarissa-dev-codes/Astronomy-Picture-of-the-Day-API)
